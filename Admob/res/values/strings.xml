@@ -4,5 +4,6 @@
     <string name="app_name">Admob</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="id_admob">ac-00000000</string>
 
 </resources>
